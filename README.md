@@ -1,2 +1,2 @@
 # jenkins-multibranch-pipeline
-jenkins-multibranch-pipeline example
+jenkins-multibranch-pipeline
