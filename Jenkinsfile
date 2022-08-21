@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building in master branch second time'
+                echo 'Building in master branch'
             }
         }
     }
